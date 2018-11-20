@@ -1,1 +1,5 @@
 targets = [ "//:function" ]
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-integer"
+version = "branch=master"
