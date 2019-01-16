@@ -3,3 +3,7 @@ targets = [ "//:function" ]
 [[dependency]]
 package = "github.com/buckaroo-pm/boost-integer"
 version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-type_index"
+version = "branch=master"
