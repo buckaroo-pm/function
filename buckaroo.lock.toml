@@ -1,4 +1,4 @@
-manifest = "f2d36595bbf33b15f2620ebd3ed09a4c9930f0ce4264b629aac8830064731aea"
+manifest = "ce86a6ae35c333a2a37cab1e1c085542f17526724b655a52be88051ea779b3f8"
 
 [[dependency]]
 package = "github.com/buckaroo-pm/boost-bind"
@@ -18,7 +18,7 @@ revision = "f9d6a7b63ef2902777b6078fdebc54e7a57aac03"
 
 [lock."github.com/buckaroo-pm/boost-bind"]
 versions = [ "branch=master" ]
-revision = "9ad7a5ff3b85224e2235657dbb9f48e8d548b43c"
+revision = "cfad39eb7381d02a0914f1c939140aa4f8195a1e"
 
 [lock."github.com/buckaroo-pm/boost-config"]
 versions = [ "branch=master" ]
