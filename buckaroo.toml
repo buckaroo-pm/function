@@ -1,0 +1,9 @@
+targets = ["//:function"]
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-bind"
+version = "1.52.0"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-integer"
+version = "1.52.0"
